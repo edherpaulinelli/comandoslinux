@@ -1,0 +1,286 @@
+Comandos do Terminal Linux com a letra A
+alias: cria um alias;
+apropos: busca ajuda na página do manual (man -k);
+apt-get: busca e instala pacotes de software (Debian/Ubuntu);
+aptitude: busca e instala pacotes de software (Debian/Ubuntu);
+aspell: verifica a ortografía;
+awk: encontra e substitui texto, ordena/valida/indexa bases de dados.
+
+Comandos Linux com a letra B
+basename:  Exibe diretórios e base de arquivos;
+bash: GNU Bourne-Again SHell;
+bc: linguagem de cálculo de precisão arbitrária;
+bg: Enviar trabalho ou processo para o segundo plano;
+break: sair de um loop;
+builtin: Executar um shell integrado;
+bzip2: Comprimir ou descomprimir arquivo(s).
+
+Comandos Linux com a letra C
+cal: Mostrar um calendário;
+case: Executar um comando de forma condicionada;
+cat: Concatenar e exibir (na tela) o conteúdo de um ou mais arquivos;
+cd: Trocar de diretório;
+cfdisk: Gestor de Tabelas de Partição para Linux;
+chgrp: Alterar a associação de um grupo;
+chmod: Alterar permissões de acesso;
+chown: Alterar o dono e o grupo de um arquivo;
+chroot: Executar um comando com um diretório raiz diferente;
+chkconfig: Serviços do sistema (nível de execução);
+cksum: Imprimir o conteúdo da soma de verificação e do byte;
+clear: Limpar a tela do terminal;
+cmp: Comparar dois arquivos;
+comm: Comparar dois arquivos ordenados linha por linha;
+command: Execute um comando - ignorando as funções do shell;
+continue: Continue com a próxima interação de um ciclo ou loop;
+cp: Copia um ou mais arquivos para outro local ou rota;
+cron: daemon para executar comandos programados ou programados;
+crontab: Horário ou agendar a execução de um comando para um tempo específico;
+csplit: dividir um arquivo em partes determinadas pelo contexto;
+cut: dividir um arquivo em várias partes.
+
+Comandos Linux com a letra D
+data: mostrar ou alterar a data e hora;
+dc: calculadora;
+dd: converter e copiar um arquivo, gravar em um dispositivo;
+ddrescue: Ferramenta de recuperação de dados;
+declare: declarar variáveis e atribuir atributos;
+df: Mostrar o espaço livre em disco;
+diff: Mostrar diferenças entre dois arquivos;
+diff3: Mostrar a diferença entre três arquivos;
+dig: DNS lookup;
+dir: lista de diretórios brevemente conteúdo;
+dircolors: Definir cores para 'ls';
+dirname: Converte um nome de caminho completo em apenas uma rota;
+dirs: mostra uma lista de diretórios acessados;
+dmesg: Imprime mensagens do kernel e drivers;
+du: Estima o espaço ocupado pelo arquivo.
+
+Comandos Linux com a letra E
+echo: Exibe uma mensagem na tela;
+egrep: Pesquisa em arquivo(s) para as linhas que correspondem a uma expressão estendida;
+eject: Ejeta mídia removível;
+enable: Ativa e desativa comandos internos do shell;
+env: Variáveis de ambiente;
+ethtool: Configuração de interface Ethernet;
+eval: Avalia vários comandos/argumentos;
+exec: Executa um comando;
+exit: Sai do shell;
+expect: Automatiza aplicações arbitrárias acessadas através de um terminal;
+expand: Converter tabulações de caracteres para exportar espaços;
+export: Definir uma variável de ambiente;
+expr: Avaliar expressões.
+
+Comandos Linux com a letra F
+false: sem sucesso, falsa;
+fdformat: formatação de baixo-nível para disquetes;
+fdisk: manipula partição de tabelas para Linux;
+fg: enviar trabalho ou processo para o primeiro plano;
+fgrep: pesquisa por linhas correspondem a uma seqüência de arquivo(s);
+file: determina o(s) tipo(s) de arquivo;
+find: encontra arquivos que correspondem a um critério desejado;
+fmt: reformatar um parágrafo de texto
+fold: cortar texto para ter uma largura específica.
+for: expandir palavras e executar comandos
+format: formatar discos ou fitas
+free: mostra o uso da memória
+fsck: verifica e repara a consistência do sistema de arquivos
+FTP: protocolo de transferência de arquivos FTP
+function: define funções macros
+fuser: Identificar/Matar o processo que está acessando ou modificando um arquivo.
+
+Comandos Linux com a letra G
+gawk: pesquisar e substituir texto em arquivo (s);
+getopts: analisa parâmetros de posições
+grep: pesquisa arquivos para linhas que correspondem ao padrão pesquisado
+groupadd: Adiciona um grupo de usuários
+groupdel: exclui um grupo
+groupmod: modificar um grupo
+groups: imprimir nome dos grupos que pertence a um usuário
+gzip: comprime ou descompacta os arquivos nomeados.
+
+Comandos Linux com a letra H
+hash: recupera o caminho completo de um argumento
+head: exibe a primeira parte de um ou mais arquivos
+help: exibe a ajuda de um comando integrado ao sistema.
+history: exibe o histórico dos comandos executados
+hostname: Imprime ou define o nome do sistema.
+
+Comandos Linux com a letra I
+Iconv: converter caracteres de um arquivo
+id: imprimeos IDs de usuário e grupo
+if: executa um comando como condição
+ifconfig: configurar uma interface de rede
+ifdown: parar uma interface de rede
+ifup: iniciar uma interface de rede
+info: ler a informação documentos do sistema ou comandos
+import: capturar uma tela do servidor X e salvar a imagem em um arquivo
+install: copiar arquivos e definir atributos.
+
+Comandos Linux com a letra J
+jobs: lista trabalhos ou processos ativos.
+join: une linhas em um campo comum.
+
+Comandos Linux com a letra K
+kill: interrompe um processo em execução
+killall: para processos por nome.
+
+Comandos Linux com a letra L
+less: mostra parte de um arquivo na tela de forma interativa
+let: realiza contas em variáveis do shell.
+ln: criar links simbólicos ou físicos entre arquivos
+local: crie variáveis.
+locate:  buscar arquivos
+logname:  Imprime o nome da atribuição atual
+logout: sai de uma sessão do shell.
+look: exibe as linhas que começam com uma determinada string
+lpc: programa de controle da linha de impressão
+lpr: impressão off-line
+lprint: imprime um arquivo
+lprintd: aborta um trabalho de impressão
+lprintq: listar a fila de impressão
+lprm: remover trabalhos da fila de impressão
+ls: listar informações sobre os arquivos
+lsof: listar os arquivos abertos.
+
+Comandos Linux com a letra M
+make: recompilar um grupo de programas
+man: manual ou a ajuda de um comando
+mkdir: criar um diretório
+mkisofs: criar um sistema de arquivos híbridos ISO9660/Joliet/HFS
+mknod: criar um bloco ou um arquivo especial de caracteres
+more: exibe a saída em uma tela com pausas
+mount: montar um arquivo de sistema
+mtools:  manipular arquivos MS-DOS
+mtr: diagnosticar redes (traceroute/ping)
+mv: mover ou renomear arquivos, ou diretórios
+mmv: mover ou renomear arquivos, ou diretórios massivamente
+
+Comandos Linux com a letra N
+netstat: dar informações da rede
+nice: prioriza um comando ou processo
+nl: enumera as linhas (no início) de um arquivo
+nohup: executar um comando imune a bloqueios
+notify-send: enviar notificações de desktop
+nslookup: consulta de servidores, de nomes de domínio de forma interativa.
+
+Comandos Linux com a letra O
+open: abre um arquivo com seu aplicativo padrão
+op: operador de acesso.
+
+Comandos Linux com a letra P
+passwd: alterar a senha de um usuário
+paste: mesclar linhas de arquivo
+pathchk: ver disponibilidade de um nome de arquivo
+ping: teste a conexão de rede
+pkill: parar a execução de um processo
+popd: restaurar o valor anterior do diretório atual
+pr: preparar arquivos para impressão
+printcap: base de Dados da capacidade das impressoras
+printenv: imprimir variáveis de ambiente
+printf: formatar dados e imprimir.
+ps: estado de processos no sistema
+pushd: grave e altere o diretório atual
+pwd: imprime o diretório atual.
+
+Comandos Linux com a letra Q
+quota: mostrar limites e uso de disco
+quotacheck: verificar um sistema de arquivos para uso de disco
+quotactl: definir cotas de disco.
+
+Comandos Linux com a letra R
+ram: criar um dispositivo de disco na memória
+rcp: copiar arquivos entre duas máquinas
+read: ler uma linha da entrada padrão.
+readarray: Lê caminho padrão para um arranjo de tipo variável.
+readonly: Marcar variáveis e funções como somente leitura
+reboot: reinicie o sistema
+rename: renomear arquivos
+renice: alterar a prioridade de execução de processos
+remsync: sincronizar arquivos remotos via e-mail
+return: sair de uma função shell
+rev: reverter as linhas de um arquivo
+rm: remove arquivo(s)
+rmdir: remover diretório(s)
+rsync: copiar arquivos local ou remotamente para sincronizar diretórios
+
+Comandos Linux com a letra S
+scp: copiar arquivos remotamente de forma segura (usando ssh)
+sdiff: mescla arquivos interativamente
+sed: editor de fluxo de caracteres para filtrar e formatar texto
+seq: imprime sequências numéricas
+set: manipular variáveis e funções Shell
+SFTP: protocolo  seguro de compartilhamento de arquivos (SFTP)
+shift: alterar os parâmetros de posição
+shopt: opções do Shell
+shutdown: desligar ou reiniciar o Linux
+sleep: delay por um tempo determinado
+slocate: localizar arquivos
+sort: escolher arquivos de texto
+source: executa um comando de um arquivo.
+split: dividir um arquivo em partes de um determinado tamanho
+ssh: cliente SSH (Secure Client Shell) para chamar programas remotamente
+strace: rastrear chamadas de sistema ou sinalizados
+su: alterar o ID do usuário ou tornar-se superusuário (root)
+sudo: executa um comando como outro usuário
+sum: imprime a soma de verificação de um arquivo
+suspend:  suspende a execução do shell atual.
+symlink: cria um novo nome para um arquivo
+sync: sincronizar dados em disco com memória.
+
+Comandos Linux com a letra T
+tail: Mostra a última parte de um arquivo
+tar: Tape ARchiver - compacta e descompacta arquivos
+tee: redirecionar a saída a vários arquivos
+test: verifica tipos de arquivos e compara valores
+time: executa programas e resume o tempo e recursos ocupados
+times: obter hora do sistema (tempo) e do usuário
+touch: alterar a hora do registro de uso de um arquivo
+top: listar os processos em execução no sistema e os recursos utilizados
+traceroute: rastreia uma rota para um host
+tr: traduzir ou excluir caracteres
+true: nenhum efeito, valor verdadeiro, sucesso
+tsort: executa uma ordem topológica
+tty: imprime o nome do arquivo de entrada padrão de final stdin
+type: descreve um comando.
+
+Comandos Linux com a letra U
+ulimit: limitar recursos do usuário.
+umask: arquivos do usuário máscara de criação de
+umount: desmontar um dispositivo
+unalias: remove um alias.
+uname: Imprimir informações do sistema
+unexpand: converte espaços personagens tablatura
+uniq: remove linhas duplicadas nos arquivos listados
+units: converte unidades de uma escala para outra
+unset: renova variáveis ou nomes de função
+unshar: descompacta arquivos de shell script
+until: executa comandos (para encontrar erro)
+uptime: mostra quanto tempo o sistema tem funcionado
+useradd: criar uma nova conta de usuário
+userdel: exclui uma conta de usuário
+usermod:  modifica uma conta de usuário
+users: lista usuários atualmente conectados ao sistema
+uuencode: codifica um arquivo binário
+uudecode: decodifica um arquivo binário.
+
+Comandos Linux com a letra V
+vdir: lista estendida de conteúdo(s) do diretório (`ls -l -b ')
+vi: editor de texto
+vmstat: reportar estatísticas de memória virtual
+
+Comandos Linux com a letra W
+wait: esperar que um processo se complete
+watch: executar/exibir um programa periodicamente
+wc: imprime a contagem de bytes, palavras e linhas
+whatis: imprime descrições de página demanual.
+whereis:  pesquisa no $PATH nos manuais de comando e nos arquivos fontes de um programa
+which:  busca $path do usuário por um arquivo de programa
+while: executar comandos
+who:  mostra todos os usuários conectados ao sistema
+whoami: mostra ID e nome de usuário  (`id -un’)
+wget: baixar páginas da Web ou arquivos via HTTP, HTTPS ou FTP
+write: enviar uma mensagem para outro usuário.
+
+Comandos Linux com a letra X
+xargs: utilidade de execução, passando lista (s) de argumentos
+xdg-open: abre um arquivo ou URL com o aplicativo preferido pelo usuário.
